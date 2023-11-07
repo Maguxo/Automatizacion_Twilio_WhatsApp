@@ -46,7 +46,7 @@ https://github.com/Magucho/Automatizacion_Twilio_WhatsApp/assets/98346054/daf06e
 </div>
 
 ---
-<div>
+<div align="center">
   <h1> <img src="https://github.com/Magucho/Automatizacion_Twilio_WhatsApp/assets/98346054/e631a659-4355-4b6a-8468-a0b1b77aade9" width=20 height="20"> Video Explicado</h1>
 </div>
 
