@@ -45,7 +45,6 @@ https://github.com/Magucho/Automatizacion_Twilio_WhatsApp/assets/98346054/daf06e
 <p>El video hace una pequeña demostración del objetivo.</p>
 </div>
 
-
 ---
 
 
