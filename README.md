@@ -16,12 +16,16 @@
 ---
 <div align="center">
   <h1>Libreria</h1>
-  <p>Utilizando Maven en el arxivo pom.xm:</p>
+  <p>Utilizando la dependencia en el proyecto via Maven </p>
   
-  <p><groupId>com.twilio.sdk</groupId>
+```xml
+<dependency>
+  <groupId>com.twilio.sdk</groupId>
   <artifactId>twilio</artifactId>
-  <version>9.2.5</version>
-  <scope>compile</scope></p>
+  <version>9.X.X</version>
+  <scope>compile</scope>
+</dependency>
+```
 
 </div>
 
