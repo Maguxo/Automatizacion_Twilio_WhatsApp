@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-  <h1>Libreria</h1>
+  <h1>📚Libreria</h1>
   <p>Utilizando la dependencia en el proyecto via Maven </p>
   
 ```xml
