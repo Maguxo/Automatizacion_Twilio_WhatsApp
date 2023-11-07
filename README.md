@@ -39,6 +39,12 @@
 ---
 <div align="center">
   <h1> <img src="https://github.com/Magucho/Automatizacion_Twilio_WhatsApp/assets/98346054/c9c34f7a-cec2-4c66-b357-29642909a474" width=20 height="20">Video </h1>
+
+
+https://github.com/Magucho/Automatizacion_Twilio_WhatsApp/assets/98346054/daf06e13-2c61-4403-8b95-57b3d0730125
+
+
+  
 </div>
 
 
