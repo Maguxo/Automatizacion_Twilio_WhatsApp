@@ -8,9 +8,11 @@
 
 
  --- 
-
-<div alngn="center">
-<hi>Hablando un poco del proyecto</hi>
+<div align="center">
+<h1>Hablando un poco del proyecto</h1>
   
 </div>
+
+
+
 </html>
